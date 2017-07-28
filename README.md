@@ -1,3 +1,3 @@
 # hello-world
-Merely another repository
-Nevertheless, a place to collaborate
+Merely another repository; yet, it is a very good place to collaborate.
+-MWC
